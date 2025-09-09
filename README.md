@@ -132,7 +132,9 @@ A visitor fills out the contact form on your portfolio website:
 
 ## Author
 
-**Name:** DOMMARAJU JYOTHSHNA SREE 
+**Name:** DOMMARAJU JYOTHSHNA SREE ,
+          K PRAGATI,
+          SAROJ PADHI.
 
 **Date:** september 2025
 
