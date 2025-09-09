@@ -90,7 +90,7 @@ npm start
 
 A visitor fills out the contact form on your portfolio website:
 
- 1. Name: Pragati Sharma
+ 1. Name: Pragati Kumari
 
  2. Email: pragati123@gmail.com
 
@@ -133,7 +133,7 @@ A visitor fills out the contact form on your portfolio website:
 ## Author
 
 **Name:** DOMMARAJU JYOTHSHNA SREE ,
-          K PRAGATI,
+          PRAGATI KUMARI,
           SAROJ PADHI.
 
 **Date:** september 2025
