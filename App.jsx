@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Home from './components/Home';
-import About from './components/About';
-import Projects from './components/Projects';
-import ResumeExperience from './components/ResumeExperience'; 
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Header from './Header';
+import Home from './Home';
+import About from './About';
+import Projects from './Projects';
+import ResumeExperience from './ResumeExperience'; 
+import Contact from './Contact';
+import Footer from './Footer';
 import AOS from 'aos'; // AOS ko import kiya
 import 'aos/dist/aos.css'; // AOS ki CSS file ko import kiya
 
