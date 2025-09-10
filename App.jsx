@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './Header';
 import Home from './Home';
-import About from '/About';
+import About from './About.jsx';
 import Projects from './Projects';
 import ResumeExperience from './ResumeExperience'; 
 import Contact from './Contact';
