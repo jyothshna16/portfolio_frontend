@@ -7,6 +7,18 @@ export default {
     proxy: {
       "/api": "http://localhost:5000"
     }
+  },
+  build: {
+    rollupOptions: {
+      onwarn(warning, warn) {
+        if (warning.message.includes('Module level directives cause errors when bundled')) {
+          return;
+        }
+        warn(warning);
+      }
+    }
   }
 }
+
+
 
