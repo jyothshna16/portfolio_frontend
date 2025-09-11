@@ -228,16 +228,16 @@ const Header = ({ toggleTheme, currentTheme = 'light' }) => {
             <a href="/" className="premium-nav-link">
               🏠 Home
             </a>
-            <a href="/About" className="premium-nav-link">
+            <a href="/about" className="premium-nav-link">
               👤 About
             </a>
-            <a href="/Projects" className="premium-nav-link">
+            <a href="/projects" className="premium-nav-link">
               💼 Projects
             </a>
-            <a href="/Resume" className="premium-nav-link">
+            <a href="resume" className="premium-nav-link">
               📄 Resume
             </a>
-            <a href="/Contact" className="premium-nav-link">
+            <a href="/contact" className="premium-nav-link">
               📧 Contact
             </a>
             
@@ -292,4 +292,5 @@ const Header = ({ toggleTheme, currentTheme = 'light' }) => {
 
 
 export default Header;
+
 
